@@ -1,0 +1,4 @@
+{
+  "scripts": { "flow": "flow" },
+  "dependencies": { "flow-bin": "^0.34.0" }
+}
